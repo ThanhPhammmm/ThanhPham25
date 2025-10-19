@@ -15,12 +15,19 @@
 ### 💻 Skills & Technologies
 
 <!-- Languages -->
-<h4 align="center">🧩 Languages</h4>
+<h4 align="center">🧩 Programming Languages & Core Skills</h4>
+
 <p align="center">
+  <!-- Core Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20C-007396?style=for-the-badge&logo=embeddedc&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-004283?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+  <!-- Computer Science Foundation -->
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2E8B57?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
+
 
 <!-- Embedded Platforms -->
 <h4 align="center">⚙️ Embedded Platforms</h4>
@@ -31,6 +38,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white" />
   <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=beaglebone&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00C7B7?style=for-the-badge&logo=freertos&logoColor=white" />
 </p>
 
 
