@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/OpenWrt-00ADEF?style=for-the-badge&logo=openwrt&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=beaglebone&logoColor=white" />
 </p>
 
 
