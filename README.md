@@ -26,10 +26,12 @@
 <h4 align="center">⚙️ Embedded Platforms</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenWrt-00ADEF?style=for-the-badge&logo=openwrt&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white" />
 </p>
+
 
 <!-- Protocols -->
 <h4 align="center">🔗 Communication Protocols</h4>
@@ -38,7 +40,10 @@
   <img src="https://img.shields.io/badge/UART-4B8BBE?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SPI-008080?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/I2C-006400?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Timer-FF8C00?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWM-FF4500?style=for-the-badge&logo=waveform&logoColor=white" />
 </p>
+
 
 <!-- Networking -->
 <h4 align="center">🌐 Networking</h4>
