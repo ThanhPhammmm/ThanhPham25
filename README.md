@@ -1,56 +1,54 @@
-<!-- Profile README cho Thanh Phạm -->
-
-# 👋 Hi, I'm Thành Phạm  
-
-💻 **Embedded Software Engineer**  
-🚀 Passionate about IoT, OpenWrt, and low-level system programming  
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm Thành Phạm</h1>
+<h3 align="center">Embedded Linux & Firmware Engineer</h3>
 
 ---
 
-## 🧠 About Me  
-- 🔧 Experienced in **Embedded C, Linux Kernel, and Networking**  
-- ⚙️ Worked with **Qualcomm SoCs**, **OpenWrt**, and **BusyBox**  
-- 🌍 Building **IoT Gateways** with MQTT and Cloud Integration  
-- 🧩 Enjoy writing **platform drivers** and debugging kernel space  
+### 🧠 About Me
+🔹 Passionate about **Embedded Linux, Networking, and Firmware Development**  
+🔹 Focused on **OpenWrt**, **Qualcomm SoC**, and **IoT Gateway Systems**  
+🔹 Experienced in **driver integration**, **Linux kernel debugging**, and **system optimization**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 💻 Skills & Technologies
 
-### 💡 Programming & Scripting  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Makefile](https://img.shields.io/badge/-Makefile-6E4C13?style=flat-square&logo=cmake&logoColor=white)
-
-### 🧰 Tools & Environments  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
-![BusyBox](https://img.shields.io/badge/-BusyBox-4EAA25?style=flat-square&logo=linux&logoColor=white)
-![GDB](https://img.shields.io/badge/-GDB-007396?style=flat-square&logo=gnu&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### 🌐 Networking & Protocols  
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-1572B6?style=flat-square)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![HTTP](https://img.shields.io/badge/-HTTP-5A9BD5?style=flat-square)
-![Socket](https://img.shields.io/badge/-Sockets-FF6C37?style=flat-square&logo=socketdotio&logoColor=white)
-
-### ⚙️ Hardware & Platforms  
-![BeagleBone Black](https://img.shields.io/badge/-BeagleBone%20Black-FF6600?style=flat-square)
-![Qualcomm SoC](https://img.shields.io/badge/-Qualcomm%20SoC-3253DC?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-00ADEF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWrt-00ADEF?style=for-the-badge&logo=openwrt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Thanhphammmm&show_icons=true&theme=tokyonight&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhphammmm&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thanhphammmm&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanhphammmm&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanhphammmm&theme=tokyonight" height="160" />
+</p>
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/th%C3%A0nh-ph%E1%BA%A1m-436b22251/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phamthanh2522004@gmail.com)
+### 🧩 Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhphammmm&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** [thanhpham.dev@gmail.com](mailto:thanhpham.dev@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/thanhphammmm](https://www.linkedin.com/in/thanhphammmm)
+
+---
+
+<p align="center">
+  <i>“Building reliable embedded systems, one line of code at a time.”</i>
+</p>
