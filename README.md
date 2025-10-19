@@ -1,6 +1,6 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm Thành Phạm</h1>
-<h3 align="center"> Embedded Software Engineer</h3>
+<h1 align="center">👋Hi, I'm Thành Phạm</h1>
+<h3 align="center">Embedded Software Engineer</h3>
 
 ---
 
