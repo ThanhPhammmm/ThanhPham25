@@ -8,7 +8,7 @@
 ---
 
 ### 🔧 Skills
-- **Languages:** C, Bash, Python
+- **Languages:** C, C++, Bash, Python
 - **Tools:** Git, Makefile, GDB
 - **Platforms:** OpenWrt, BusyBox, BeagleBone Black, Qualcomm SoC
 
@@ -19,7 +19,3 @@
 - Writing platform drivers and learning Linux kernel internals  
 
 ---
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhpham25&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhpham25&layout=compact&theme=tokyonight)
