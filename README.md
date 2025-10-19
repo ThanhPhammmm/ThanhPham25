@@ -43,15 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [**IOT_Gateway**](https://github.com/Thanhphammmm/IOT_Gateway) | Multi-threaded MQTT gateway for sensor networks | C, POSIX Threads, Mosquitto |
-| [**OpenWrt_BBB**](https://github.com/Thanhphammmm/OpenWrt_BBB) | Custom OpenWrt firmware for BeagleBone Black | OpenWrt, Shell |
-
----
-
 ## 📊 GitHub Stats  
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Thanhphammmm&show_icons=true&theme=tokyonight&hide_border=true)
