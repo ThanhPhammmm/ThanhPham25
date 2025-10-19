@@ -40,7 +40,6 @@
 ### ⚙️ Hardware & Platforms  
 ![BeagleBone Black](https://img.shields.io/badge/-BeagleBone%20Black-FF6600?style=flat-square)
 ![Qualcomm SoC](https://img.shields.io/badge/-Qualcomm%20SoC-3253DC?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ---
 
