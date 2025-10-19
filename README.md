@@ -49,9 +49,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**IOT_Gateway**](https://github.com/Thanhphammmm/IOT_Gateway) | Multi-threaded MQTT gateway for sensor networks | C, POSIX Threads, Mosquitto |
-| [**Linux_Drivers**](https://github.com/Thanhphammmm/Linux_Drivers) | Platform driver & Device Tree integration exercises | C, Kernel 5.10 |
 | [**OpenWrt_BBB**](https://github.com/Thanhphammmm/OpenWrt_BBB) | Custom OpenWrt firmware for BeagleBone Black | OpenWrt, Shell |
-| [**Cloud_Client**](https://github.com/Thanhphammmm/Cloud_Client) | Cloud uploader with token-based authentication | C, MQTT, JSON |
 
 ---
 
@@ -64,6 +62,5 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanhphammmm)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/th%C3%A0nh-ph%E1%BA%A1m-436b22251/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phamthanh2522004@gmail.com)
