@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Thành Phạm  
 
-💻 **Embedded Linux & Firmware Engineer**  
+💻 **Embedded Software Engineer**  
 🚀 Passionate about IoT, OpenWrt, and low-level system programming  
 
 ---
